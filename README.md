@@ -31,5 +31,5 @@ Antes de rodar o projeto, é necessário ter instalado:
 ### 1. Clonando o repositório
 
 ```bash
-git clone https://github.com/fabioaacarneiro/marketplace-api.git
+git clone https://github.com/fabioaacarneiro/marketplace_api.git
 cd marketplace-api
